@@ -1,6 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import Background from './anh_nen.jpg';
 function App() {
   return (
     <div className="App">
