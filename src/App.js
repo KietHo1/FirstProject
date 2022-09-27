@@ -7,14 +7,15 @@ function App() {
       <img src={logo} className="App-logo" alt="logo"/>
       <img src="https://wallpapercave.com/wp/wp10232016.jpg"></img>
         <p>
-          KietHo da lam git thanh cong!!!
+          KietHo đã làm git thành công!!!
         </p>
-        <p>Day la noi dung bai hoc:</p>
+        <p>Đây là nội dung bài học:</p>
         <p>
           <p>Đưa React Project lên Github:</p>
           <p>git remote add origin git@github.com:kiethostartup/FirstProject.git</p>
           <p>git push -u origin master</p>
         </p>
+        <p>Cảm ơn các bạn đã ghé thăm trang web của tôi!</p>
       </header>
     </div>
   );
