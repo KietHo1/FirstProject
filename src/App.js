@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="C:\Users\PC\OneDrive\Desktop"/>
+        <img className="anh_nen" src="C:\Users\PC\OneDrive\Desktop"/>
         <p>
           KietHo da lam git thanh cong!!!
         </p>
