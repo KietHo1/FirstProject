@@ -5,7 +5,7 @@ function App() {
    <div className="App">
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo"/>
-      <img src="https://bloganchoi.com/wp-content/uploads/2016/07/key-west-hoang-hon-5.jpghttps://wallpapercave.com/wp/wp10232016.jpg"></img>
+      <img src="https://bloganchoi.com/wp-content/uploads/2016/07/key-west-hoang-hon-5.jpg"></img>
         <p>
           KietHo đã làm git thành công!!!
         </p>
