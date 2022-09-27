@@ -9,7 +9,7 @@ function App() {
         <p>
           KietHo da lam git thanh cong!!!
         </p>
-        <p>Day la noi dung bai hoc</p>
+        <p>Day la noi dung bai hoc:</p>
         <p>
           <p>Đưa React Project lên Github:</p>
           <p>git remote add origin git@github.com:kiethostartup/FirstProject.git</p>
