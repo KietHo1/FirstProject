@@ -5,7 +5,7 @@ function App() {
    <div className="App">
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo"/>
-      <img src="https://phunugioi.com/wp-content/uploads/2020/08/hinh-anh-mau-trang-ve-hoa.jpg"></img>
+      <img src="https://wallpapercave.com/wp/wp10232016.jpg"></img>
         <p>
           KietHo da lam git thanh cong!!!
         </p>
