@@ -11,10 +11,10 @@ function App() {
         </p>
         <p>Day la noi dung bai hoc</p>
         <p>
-          Đưa React Project lên Github:
-          git remote add origin git@github.com:kiethostartup/FirstProject.git
-          git push -u origin master
-</p>
+          <p>Đưa React Project lên Github:</p>
+          <p>git remote add origin git@github.com:kiethostartup/FirstProject.git</p>
+          <p>git push -u origin master</p>
+        </p>
       </header>
     </div>
   );
