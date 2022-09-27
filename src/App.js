@@ -1,12 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Background from './anh_nen.jpg';
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div>
-          <img src="D:\firstproject\src\anh_nen.jpg" className="App_anh">haha</img>
+      <img src={logo} className="App-logo" alt="logo"/>
         <p>
           KietHo da lam git thanh cong!!!
         </p>
@@ -16,7 +15,6 @@ function App() {
           <p>git remote add origin git@github.com:kiethostartup/FirstProject.git</p>
           <p>git push -u origin master</p>
         </p>
-        </div>
       </header>
     </div>
   );
