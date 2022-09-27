@@ -9,6 +9,12 @@ function App() {
         <p>
           KietHo da lam git thanh cong!!!
         </p>
+        <p>Day la noi dung bai hoc</p>
+        <p>
+          Đưa React Project lên Github:
+          git remote add origin git@github.com:kiethostartup/FirstProject.git
+          git push -u origin master
+</p>
       </header>
     </div>
   );
