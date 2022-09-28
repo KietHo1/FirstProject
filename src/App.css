@@ -1,9 +1,10 @@
 .App {
   text-align: center;
+  display: flex;
 }
 
 .App-logo {
-  height: 0vmin;
+  height: 40vmin;
   pointer-events: none;
 }
 
@@ -18,7 +19,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: left;
+  align-items: right;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -37,11 +38,11 @@
   }
 }
 
-#id1{
+.id1{
   color: Red;
 }
 
-#id0{
+.id0{
   background-size: cover;
 }
 
@@ -53,4 +54,32 @@ p{
   position: relative;
   left: 100px;
   text-align: left;
+}
+
+.fisrtname, .name, .telenumber{
+  position: absolute;
+  left: 100px;
+  text-align: left;
+}
+.form{
+  margin-bottom: 40px;
+}
+
+.Hello, .Please{
+  text-align: Center;
+}
+
+.images1{
+  position: relative;
+  left: 100px;
+  width: 550px;
+  height: 550px;
+  display: flex;
+}
+
+.images2{
+  position: relative; 
+  left: 790px;
+  width: 550px;
+  height: 550px;
 }
