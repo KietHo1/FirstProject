@@ -70,7 +70,7 @@ p{
   text-align: Center;
 }
 
-.images1{
+.images1, .images3, .images5, .images7{
   position: relative;
   left: 100px;
   width: 550px;
@@ -78,12 +78,12 @@ p{
   padding-right: 200px;
 }
 
-.images2{
+.images2, .images4, .images6, .images8{
   left: 790px;
   width: 550px;
   height: 550px;
 }
 
-.phan1{
+.phan1, .phan2, .phan3, .phan4{
   display: flex;
 }
