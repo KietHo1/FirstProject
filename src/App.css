@@ -18,7 +18,7 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: left;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
@@ -38,7 +38,7 @@
 }
 
 #id1{
-  color: Blue;
+  color: Red;
 }
 
 #id0{
@@ -47,4 +47,10 @@
 
 p{
   color: black;
+}
+
+.Ho, .Ten, .SDT{
+  position: relative;
+  left: 100px;
+  text-align: left;
 }
