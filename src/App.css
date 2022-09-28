@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   display: flex;
+  background-color: rgb(255, 236, 238);
 }
 
 .App-logo {
@@ -15,7 +16,7 @@
 }
 
 .App-header {
-  background-color: White;
+  background-color: rgb(255, 236, 238);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -74,12 +75,15 @@ p{
   left: 100px;
   width: 550px;
   height: 550px;
-  display: flex;
+  padding-right: 200px;
 }
 
 .images2{
-  position: relative; 
   left: 790px;
   width: 550px;
   height: 550px;
+}
+
+.phan1{
+  display: flex;
 }
