@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo"/>
       <img src="https://bloganchoi.com/wp-content/uploads/2016/07/key-west-hoang-hon-5.jpg"></img>
-        <p>
+        <p id = 'id1'>
           KietHo đã làm git thành công!!!
         </p>
         <p>Đây là nội dung bài học:</p>
