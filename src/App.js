@@ -5,7 +5,8 @@ function App() {
    <div className="App">
       <header className="App-header">
       <img src={logo} className="App-logo" alt="logo"/>
-      <img src="https://bloganchoi.com/wp-content/uploads/2016/07/key-west-hoang-hon-5.jpg"></img>
+      <img src='https://cdn.vinshine.com/img/60f7bf1d0bc99426cac2388fe1b6e416442e04059ba626d5cd2507f27a4dfc7788bec6631afb6a74ff77a52a1336179312e87ba794ac5cf5.jpg?referer=60f7bf1d0bc994266d573f4b63d84278f6930556344116c3' 
+      id = 'id0'></img>
         <p id = 'id1'>
           KietHo đã làm git thành công!!!
         </p>
