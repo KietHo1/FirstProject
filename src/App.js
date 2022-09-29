@@ -91,10 +91,15 @@ function App() {
 
         <img src='https://cdn.vinshine.com/img/60f7bf1d0bc99426cac2388fe1b6e416442e04059ba626d5cd2507f27a4dfc7788bec6631afb6a74ff77a52a1336179312e87ba794ac5cf5.jpg?referer=60f7bf1d0bc994266d573f4b63d84278f6930556344116c3' 
       className = 'id0' alt='images'></img>
-        <p className = 'id1'>
+        <div className = 'id1'>
         <p>Cảm ơn các bạn đã ghé thăm trang web của tôi!</p>
-        <p>© 2022 GitHub, Inc. https://github.com/KietHo1/FirstProject</p>
-        </p>
+          <a href="https://www.facebook.com/kiet.ho.161214/" className="afacebook">
+            <p>Link Facebook của tôi: https://www.facebook.com/kiet.ho.161214</p>
+          </a>
+          <a href="https://github.com/KietHo1/FirstProject" className="agithub">
+            <p>© 2022 GitHub, Inc. https://github.com/KietHo1/FirstProject</p>
+          </a>
+        </div>
       </header>
     </div>
   );

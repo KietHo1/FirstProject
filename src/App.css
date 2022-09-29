@@ -38,10 +38,6 @@
   }
 }
 
-.id1{
-  color: Red;
-}
-
 .id0{
   background-size: cover;
 }
@@ -94,6 +90,6 @@ p{
   display: flex;
   padding-left: 100px;
 }
-.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8{
+.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8, .agithub, .afacebook{
   text-decoration: none;
 }
