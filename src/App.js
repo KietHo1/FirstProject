@@ -4,6 +4,11 @@ function App() {
   return (
    <div className="App">
       <header className="App-header">
+      <div className="TieuDe">
+        <img src="https://truyencc.com/images/logo.png" className="imagesheader" alt="imagesheader"></img>
+        <p>Trang Chủ</p>
+        <p>About</p>
+      </div>
       <img src={logo} className="App-logo" alt="logo"/>
       <p className="Hello">Chào mừng bạn đến với website truyện JOJO của Kiệt Hồ</p>
       <form className='form'>
@@ -16,7 +21,7 @@ function App() {
         <input type="text" className="telenumber" /><br></br>
       </form>
 
-      <div className="phan1">
+        <div className="phan1">
         <div className="phancon1">
           <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/JoJo_Part_1_Phantom_Blood.jpg/250px-JoJo_Part_1_Phantom_Blood.jpg" 
           className="images1" alt="images1"></img>
@@ -84,7 +89,7 @@ function App() {
         </div>
       </div>
 
-      <img src='https://cdn.vinshine.com/img/60f7bf1d0bc99426cac2388fe1b6e416442e04059ba626d5cd2507f27a4dfc7788bec6631afb6a74ff77a52a1336179312e87ba794ac5cf5.jpg?referer=60f7bf1d0bc994266d573f4b63d84278f6930556344116c3' 
+        <img src='https://cdn.vinshine.com/img/60f7bf1d0bc99426cac2388fe1b6e416442e04059ba626d5cd2507f27a4dfc7788bec6631afb6a74ff77a52a1336179312e87ba794ac5cf5.jpg?referer=60f7bf1d0bc994266d573f4b63d84278f6930556344116c3' 
       className = 'id0' alt='images'></img>
         <p className = 'id1'>
         <p>Cảm ơn các bạn đã ghé thăm trang web của tôi!</p>

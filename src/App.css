@@ -15,7 +15,7 @@
   }
 }
 
-.App-header {
+.App-header{
   background-color: rgb(255, 236, 238);
   min-height: 100vh;
   display: flex;
@@ -25,7 +25,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
 .App-link {
   color: #61dafb;
 }
@@ -85,5 +84,12 @@ p{
 }
 
 .phan1, .phan2, .phan3, .phan4{
+  display: flex;
+}
+.images_header{
+  position: relative;
+  padding-left: 100px;
+}
+.TieuDe{
   display: flex;
 }
