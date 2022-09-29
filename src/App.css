@@ -86,10 +86,14 @@ p{
 .phan1, .phan2, .phan3, .phan4{
   display: flex;
 }
-.images_header{
+.images_header, .TieuDe1, .TieuDe2{
   position: relative;
   padding-left: 100px;
 }
 .TieuDe{
   display: flex;
+  padding-left: 100px;
+}
+.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8{
+  text-decoration: none;
 }
