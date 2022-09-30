@@ -1,11 +1,10 @@
 .App {
   text-align: center;
   display: flex;
-  background-color: rgb(255, 236, 238);
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 0vmin;
   pointer-events: none;
 }
 
@@ -20,10 +19,11 @@
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  align-items: right;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  width: 1450px;
+
 }
 .App-link {
   color: #61dafb;
@@ -39,7 +39,8 @@
 }
 
 .id0{
-  background-size: cover;
+  height: 550px;
+  width: 1400px;
 }
 
 p{
@@ -90,16 +91,51 @@ p{
   display: flex;
   padding-left: 100px;
 }
-.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8{
+.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8, .TrangChu{
   text-decoration: none;
 }
 
-.id2, .id3{
+.id2{
   display: flex;
 }
 
+.id3{
+  display: flex;
+  background-color: red;
+}
+
 .imagesfacebook{
-  width: 226px;
-  height: 226px;
+  position: relative;
+  left: 450px;
+  width: 100px;
+  height: 100px;
   padding-top: 20px;
+}
+
+.imagesgithub{
+  width: 115px;
+  height: 115px;
+  padding-top: 10px;
+  position: relative;
+  left: 550px;
+  padding-right: 120px;
+}
+
+.end1{
+  color: #fff;
+  font-size: 16px;
+  position: relative;
+  padding-left: 20px;
+}
+
+.end2{
+  color: #fff;
+  font-size: 16px;
+  position: relative;
+  padding-left: 1120px;
+}
+
+.AnhBia{
+    height: 550px;
+    width: 1400px;
 }

@@ -6,10 +6,10 @@ function App() {
       <header className="App-header">
       <div className="TieuDe">
         <img src="https://truyencc.com/images/logo.png" className="imagesheader" alt="imagesheader"></img>
-        <p className="TieuDe1">Trang Chủ</p>
-        <p className="TieuDe2">About</p>
+        <a href = "../" className="TrangChu"><p className="TieuDe1">Trang Chủ</p></a>
       </div>
       <img src={logo} className="App-logo" alt="logo"/>
+      <img className="AnhBia" src="https://wallpapercave.com/wp/wp2200981.jpg" alt="AnhBia"></img>
       <p className="Hello">Chào mừng bạn đến với website truyện JOJO của Kiệt Hồ</p>
       <form className='form'>
         <p className="Please">Vui lòng để thông tin của bạn để chúng tôi biết</p>
@@ -102,8 +102,8 @@ function App() {
             </a>
           </div>
           <div className="id3">
-            <p>© 2022 KietHo1</p>
-            <p>Design by KietHo1</p>
+            <p className="end1">© 2022 KietHo1</p>
+            <p className="end2">Design by KietHo1</p>
           </div>
         </div>
       </header>
