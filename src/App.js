@@ -92,13 +92,19 @@ function App() {
         <img src='https://cdn.vinshine.com/img/60f7bf1d0bc99426cac2388fe1b6e416442e04059ba626d5cd2507f27a4dfc7788bec6631afb6a74ff77a52a1336179312e87ba794ac5cf5.jpg?referer=60f7bf1d0bc994266d573f4b63d84278f6930556344116c3' 
       className = 'id0' alt='images'></img>
         <div className = 'id1'>
-        <p>Cảm ơn các bạn đã ghé thăm trang web của tôi!</p>
-          <a href="https://www.facebook.com/kiet.ho.161214/" className="afacebook">
-            <p>Link Facebook của tôi: https://www.facebook.com/kiet.ho.161214</p>
-          </a>
-          <a href="https://github.com/KietHo1/FirstProject" className="agithub">
-            <p>© 2022 GitHub, Inc. https://github.com/KietHo1/FirstProject</p>
-          </a>
+          <p>Cảm ơn các bạn đã ghé thăm trang web của tôi!</p>
+          <div className="id2">
+            <a href="https://github.com/KietHo1/FirstProject" className="agithub">
+              <img src = "https://cdn3.iconfinder.com/data/icons/sociocons/256/github-sociocon.png" className = "imagesgithub" alt="imagesgithub"></img>
+            </a>
+            <a href="https://www.facebook.com/kiet.ho.161214/" className="afacebook">
+              <img src = "https://dividedskyentertainment.com/officialwebsite/wp-content/uploads/2021/01/FB_Y-2.png" className = "imagesfacebook" alt="imagesfacebook"></img>
+            </a>
+          </div>
+          <div className="id3">
+            <p>© 2022 KietHo1</p>
+            <p>Design by KietHo1</p>
+          </div>
         </div>
       </header>
     </div>
