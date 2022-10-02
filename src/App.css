@@ -72,12 +72,14 @@ p{
   width: 550px;
   height: 550px;
   padding-right: 200px;
+  cursor: pointer;
 }
 
 .images2, .images4, .images6, .images8{
   left: 790px;
   width: 550px;
   height: 550px;
+  cursor: pointer;
 }
 
 .phan1, .phan2, .phan3, .phan4{

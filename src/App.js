@@ -1,5 +1,6 @@
 import './App.css';
 import logo from './logo.svg';
+import { Howl } from 'howler';
 function App() {
   return (
    <div className="App">
@@ -106,6 +107,9 @@ function App() {
             <p className="end2">Design by KietHo1</p>
           </div>
         </div>
+        <script>
+          
+        </script>
       </header>
     </div>
   );
