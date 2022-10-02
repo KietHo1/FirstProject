@@ -1,7 +1,6 @@
 import './App.css';
 import logo from './logo.svg';
-import { Howl } from 'howler';
-function App() {
+function App(){
   return (
    <div className="App">
       <header className="App-header">
@@ -106,10 +105,12 @@ function App() {
             <p className="end1">© 2022 KietHo1</p>
             <p className="end2">Design by KietHo1</p>
           </div>
+          <div>
+              <audio controls autoplay muted>
+              <source src="https://www.computerhope.com/jargon/m/example.mp3" />
+              </audio>
+          </div>
         </div>
-        <script>
-          
-        </script>
       </header>
     </div>
   );
