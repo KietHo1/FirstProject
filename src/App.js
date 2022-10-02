@@ -1,5 +1,6 @@
 import './App.css';
 import logo from './logo.svg';
+import {React} from 'react';
 function App(){
   return (
    <div className="App">
@@ -101,12 +102,6 @@ function App(){
               <img src = "https://dividedskyentertainment.com/officialwebsite/wp-content/uploads/2021/01/FB_Y-2.png" className = "imagesfacebook" alt="imagesfacebook"></img>
             </a>
           </div>
-          <div className="box">Text Hello</div>
-          <script>
-            function ChangeColor(color){
-              document.querySelector('.box').style.color = color;
-            }
-          </script>
           <div className="id3">
             <p className="end1">© 2022 KietHo1</p>
             <p className="end2">Design by KietHo1</p>
