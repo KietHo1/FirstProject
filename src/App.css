@@ -14,7 +14,7 @@
   }
 }
 
-.App-header{
+.App-header {
   background-color: rgb(255, 236, 238);
   min-height: 100vh;
   display: flex;
@@ -23,7 +23,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
   width: 1450px;
-
 }
 .App-link {
   color: #61dafb;
@@ -38,35 +37,43 @@
   }
 }
 
-.id0{
+.id0 {
   height: 550px;
   width: 1400px;
 }
 
-p{
+p {
   color: black;
 }
 
-.Ho, .Ten, .SDT{
+.Ho,
+.Ten,
+.SDT {
   position: relative;
   left: 100px;
   text-align: left;
 }
 
-.fisrtname, .name, .telenumber{
+.fisrtname,
+.name,
+.telenumber {
   position: absolute;
   left: 100px;
   text-align: left;
 }
-.form{
+.form {
   margin-bottom: 40px;
 }
 
-.Hello, .Please{
+.Hello,
+.Please {
   text-align: Center;
 }
 
-.images1, .images3, .images5, .images7{
+.images1,
+.images3,
+.images5,
+.images7 {
   position: relative;
   left: 100px;
   width: 550px;
@@ -75,38 +82,54 @@ p{
   cursor: pointer;
 }
 
-.images2, .images4, .images6, .images8{
+.images2,
+.images4,
+.images6,
+.images8 {
   left: 790px;
   width: 550px;
   height: 550px;
   cursor: pointer;
 }
 
-.phan1, .phan2, .phan3, .phan4{
+.phan1,
+.phan2,
+.phan3,
+.phan4 {
   display: flex;
 }
-.images_header, .TieuDe1, .TieuDe2{
+.images_header,
+.TieuDe1,
+.TieuDe2 {
   position: relative;
   padding-left: 100px;
 }
-.TieuDe{
+.TieuDe {
   display: flex;
   padding-left: 100px;
 }
-.a1, .a2, .a3, .a4, .a5, .a6, .a7, .a8, .TrangChu{
+.a1,
+.a2,
+.a3,
+.a4,
+.a5,
+.a6,
+.a7,
+.a8,
+.TrangChu {
   text-decoration: none;
 }
 
-.id2{
+.id2 {
   display: flex;
 }
 
-.id3{
+.id3 {
   display: flex;
   background-color: red;
 }
 
-.imagesfacebook{
+.imagesfacebook {
   position: relative;
   left: 450px;
   width: 100px;
@@ -114,7 +137,7 @@ p{
   padding-top: 20px;
 }
 
-.imagesgithub{
+.imagesgithub {
   width: 115px;
   height: 115px;
   padding-top: 10px;
@@ -123,24 +146,21 @@ p{
   padding-right: 120px;
 }
 
-.end1{
+.end1 {
   color: #fff;
   font-size: 16px;
   position: relative;
   padding-left: 20px;
 }
 
-.end2{
+.end2 {
   color: #fff;
   font-size: 16px;
   position: relative;
   padding-left: 1120px;
 }
 
-.AnhBia{
-    height: 550px;
-    width: 1400px;
-}
-
-.NgheNhac{
+.AnhBia {
+  height: 550px;
+  width: 1400px;
 }
